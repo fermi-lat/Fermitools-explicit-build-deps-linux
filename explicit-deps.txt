@@ -65,7 +65,6 @@ https://conda.anaconda.org/conda-forge/linux-64/gfortran_impl_linux-64-7.5.0-hdf
 https://conda.anaconda.org/conda-forge/linux-64/gxx_impl_linux-64-7.5.0-hdf63c60_6.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libblas-3.8.0-17_openblas.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libedit-3.1.20191231-h46ee950_1.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/libllvm9-9.0.1-he513fc3_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libnghttp2-1.41.0-hab1572f_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libpng-1.6.37-hed695b0_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libssh2-1.9.0-hab1572f_5.tar.bz2
@@ -82,7 +81,6 @@ https://conda.anaconda.org/conda-forge/linux-64/zeromq-4.3.2-he1b5a44_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/zstd-1.4.5-h6597ccf_2.tar.bz2
 https://conda.anaconda.org/fermi/linux-64/ape-3.0.0-h14c3975_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/c-compiler-1.1.1-h516909a_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/clang-9.0.1-default_hde54327_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/davix-0.7.6-hb44b51d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/freetype-2.10.2-he06d7ca_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/gfortran_linux-64-7.5.0-h09487f9_20.tar.bz2

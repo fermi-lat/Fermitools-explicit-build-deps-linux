@@ -227,4 +227,4 @@ https://conda.anaconda.org/conda-forge/linux-64/notebook-5.7.8-py27_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/root-binaries-6.22.0-py27hf09d227_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.0-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/root-6.22.0-py27hf09d227_2.tar.bz2
-https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-1.3.7-0.tar.bz2
+https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-1.3.8-0.tar.bz2

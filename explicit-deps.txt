@@ -184,7 +184,7 @@ https://conda.anaconda.org/conda-forge/linux-64/tornado-5.1.1-py27h14c3975_1000.
 https://conda.anaconda.org/conda-forge/linux-64/traitlets-4.3.3-py27h8c360ce_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/zipp-1.0.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/backports.functools_lru_cache-1.6.1-py_0.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/bleach-3.1.5-pyh9f0ad1d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/bleach-3.2.0-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/gitpython-2.1.11-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/gobject-introspection-1.56.1-py27h2da5eee_1002.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/gst-plugins-base-1.14.5-h0935bb2_2.tar.bz2
@@ -227,4 +227,4 @@ https://conda.anaconda.org/conda-forge/linux-64/notebook-5.7.8-py27_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/root-binaries-6.22.0-py27hf09d227_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.0-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/root-6.22.0-py27hf09d227_2.tar.bz2
-https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-1.3.8-0.tar.bz2
+https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-1.3.9-0.tar.bz2

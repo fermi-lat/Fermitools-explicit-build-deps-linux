@@ -55,7 +55,7 @@ https://conda.anaconda.org/conda-forge/linux-64/libwebp-base-1.1.0-h36c2ea0_3.ta
 https://conda.anaconda.org/conda-forge/linux-64/libxkbcommon-0.10.0-he1b5a44_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libzopfli-1.0.3-he1b5a44_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/lz4-c-1.9.2-he1b5a44_3.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.2-h58526e2_3.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.2-h58526e2_4.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/nspr-4.29-he1b5a44_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/openssl-1.1.1h-h516909a_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pcre-8.44-he1b5a44_0.tar.bz2
@@ -127,7 +127,7 @@ https://conda.anaconda.org/conda-forge/linux-64/lcms2-2.11-hcbb858e_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.71.1-hcdd3856_8.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/liblapacke-3.8.0-17_openblas.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libpq-12.3-h5513abc_2.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/nss-3.58-h27285de_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/nss-3.59-h2c00c37_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/openjpeg-2.3.1-h981e76c_3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pgplot-5.2.2-hac706ba_1007.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/python-3.7.8-h6f2ec95_1_cpython.tar.bz2
@@ -273,11 +273,11 @@ https://conda.anaconda.org/conda-forge/noarch/pytest-remotedata-0.3.2-pyh9f0ad1d
 https://conda.anaconda.org/conda-forge/linux-64/root-dependencies-6.22.2-py37h3e189be_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/root_base-6.22.2-py37h257ca4f_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/ipython-7.19.0-py37h888b3d9_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/nbconvert-6.0.7-py37hc8dfbb8_2.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/nbconvert-6.0.7-py37h89c1867_3.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pytest-astropy-0.8.0-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/root-binaries-6.22.2-py37h3e189be_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/astropy-3.2.3-py37h516909a_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/ipykernel-5.3.4-py37hc6149b9_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ipykernel-5.3.4-py37h888b3d9_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/astropy-healpix-0.5-py37ha21ca33_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/ipyparallel-6.3.0-py37hc8dfbb8_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/notebook-6.1.5-py37h89c1867_0.tar.bz2

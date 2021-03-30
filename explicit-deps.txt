@@ -192,7 +192,7 @@ https://conda.anaconda.org/conda-forge/noarch/gitdb-4.0.7-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/gobject-introspection-1.68.0-py37hb87790b_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/harfbuzz-2.8.0-h83ec7ef_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/healpix_cxx-3.31-h589c746_1003.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/importlib-metadata-3.9.0-py37h89c1867_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/importlib-metadata-3.9.1-py37h89c1867_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jedi-0.18.0-py37h89c1867_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/kiwisolver-1.3.1-py37h2527ec5_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/llvmlite-0.36.0-py37h9d7f4d0_0.tar.bz2
@@ -224,7 +224,7 @@ https://conda.anaconda.org/conda-forge/linux-64/gdk-pixbuf-2.38.2-h3f25603_4.tar
 https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.14-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/imagecodecs-2021.1.11-py37h70f1e17_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/imageio-2.9.0-py_0.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.9.0-hd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.9.1-hd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jupyter_core-4.7.1-py37h89c1867_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pango-1.42.4-h80147aa_5.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pyerfa-1.7.2-py37h5e8e339_0.tar.bz2
@@ -233,7 +233,7 @@ https://conda.anaconda.org/conda-forge/linux-64/qt-5.12.9-hda022c4_4.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/scipy-1.6.2-py37hf56f3a7_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/setuptools-52.0.0-py37h06a4308_0.conda
 https://conda.anaconda.org/conda-forge/linux-64/shapely-1.7.1-py37hf7ed6d2_4.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/terminado-0.9.3-py37h89c1867_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/terminado-0.9.4-py37h89c1867_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/astropy-4.2-py37h5e8e339_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/backports.functools_lru_cache-1.6.3-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/bleach-3.3.0-pyh44b312d_0.tar.bz2

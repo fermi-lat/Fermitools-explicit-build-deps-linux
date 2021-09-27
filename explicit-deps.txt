@@ -300,7 +300,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pyqtchart-5.12-py37he336c9b_7.ta
 https://conda.anaconda.org/conda-forge/linux-64/pyqtwebengine-5.12.1-py37he336c9b_7.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pyregion-2.0-py37h902c9e0_1001.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.7-pyhd8ed1ab_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/ipython-7.27.0-py37h6531663_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/ipython-7.28.0-py37h6531663_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/nbclient-0.5.4-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pyqt-5.12.3-py37h89c1867_7.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/reproject-0.8-py37hb1e94ed_1.tar.bz2

@@ -265,7 +265,7 @@ https://conda.anaconda.org/conda-forge/linux-64/imagecodecs-2021.3.31-py37haf4b6
 https://conda.anaconda.org/conda-forge/noarch/imageio-2.9.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.8.1-hd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/jinja2-3.0.1-pyhd8ed1ab_0.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/jupyter_client-7.0.4-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/jupyter_client-7.0.5-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/matplotlib-base-3.4.3-py37h1058ff1_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/networkx-2.5-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/numba-0.53.1-py37hb11d6e1_1.tar.bz2
@@ -316,4 +316,4 @@ https://conda.anaconda.org/conda-forge/linux-64/scikit-image-0.18.3-py37he8f5f7f
 https://conda.anaconda.org/conda-forge/noarch/aplpy-2.0.3-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/root-6.22.6-py37hf7c91a4_2.tar.bz2
-https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-2.0.27-0.tar.bz2
+https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-2.0.28-0.tar.bz2

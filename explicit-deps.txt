@@ -87,7 +87,7 @@ https://conda.anaconda.org/conda-forge/linux-64/xxhash-0.8.0-h7f98852_3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.5-h516909a_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/yaml-0.2.5-h516909a_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/zfp-0.5.5-h9c3ff4c_7.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h516909a_1010.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h36c2ea0_1011.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/gcc_impl_linux-64-9.4.0-h03d3576_9.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/gettext-0.19.8.1-h73d1719_1008.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libblas-3.9.0-11_linux64_openblas.tar.bz2
@@ -151,7 +151,7 @@ https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.79.1-h2574ce0_1.tar.bz
 https://conda.anaconda.org/conda-forge/linux-64/liblapacke-3.9.0-11_linux64_openblas.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libpq-13.3-hd57d9b9_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/libwebp-1.2.0-h3452ae3_0.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/nss-3.69-hb5efdd6_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/nss-3.69-hb5efdd6_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/openjpeg-2.4.0-hb52868f_1.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/pgplot-5.2.2-h68245ad_1008.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/python-3.7.10-hb7a2778_101_cpython.tar.bz2
@@ -318,4 +318,4 @@ https://conda.anaconda.org/conda-forge/linux-64/scikit-image-0.18.3-py37he8f5f7f
 https://conda.anaconda.org/conda-forge/noarch/aplpy-2.0.3-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/root-6.22.6-py37hf7c91a4_2.tar.bz2
-https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-2.0.29-0.tar.bz2
+https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-2.0.30-0.tar.bz2

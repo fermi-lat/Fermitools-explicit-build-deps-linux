@@ -39,10 +39,11 @@ https://conda.anaconda.org/conda-forge/linux-64/zstd-1.4.9-ha95c52a_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/gsl-2.6-he838d99_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/krb5-1.19.2-h48eae69_3.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/python-3.7.12-hf930737_100_cpython.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.80.0-h494985f_1.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.81.0-h494985f_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/python_abi-3.7-2_cp37m.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/wheel-0.37.0-pyhd8ed1ab_1.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/wheel-0.37.1-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/cfitsio-3.470-hb418390_7.tar.bz2
-https://conda.anaconda.org/conda-forge/linux-64/setuptools-59.4.0-py37h89c1867_0.tar.bz2
-https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-2.0.38-0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-60.5.0-py37h89c1867_0.tar.bz2
+https://conda.anaconda.org/conda-forge/linux-64/healpix_cxx-3.80-h08efbc1_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pip-21.3.1-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/fermi/linux-64/fermitools-build-deps-2.0.39-0.tar.bz2
